@@ -1,1 +1,1 @@
-# rhombic_dodecahedral_honeycomb
+# Rhombic dodecahedral honeycomb
